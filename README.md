@@ -1,5 +1,7 @@
 # Quantum Roadmap Decomposition
 
+**Live site: [guangyi-leo.github.io/quantum-roadmap-decomposition](https://guangyi-leo.github.io/quantum-roadmap-decomposition/)**
+
 An independent, neutral analysis that decomposes the fault-tolerance roadmaps of IBM, Google, QuEra and IonQ into verifiable milestones, grades the public evidence for each, and places every target against the U.S. Department of Energy's logical-qubit tiers. Sources are current to 1 October 2026.
 
 The site is a single static page with no build step and no tracking. It is not affiliated with DOE or with any company named.
